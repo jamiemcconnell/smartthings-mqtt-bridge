@@ -134,7 +134,7 @@ function migrateState (version) {
 
     // Default port
     if (!config.port) {
-        config.port = 8080;
+        config.port = 8011;
     }
 
     // Default protocol
